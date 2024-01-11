@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farro97&theme=react&layout=compact&hide=css,html" alt="bitxer's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farro97&theme=react&layout=compact&hide=css,html" alt="Fitri's Top Languages">
 </p>
 
 <!--
